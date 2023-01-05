@@ -45,11 +45,8 @@ lmost every person today owns a mobile phone with at least the most basic facili
 <br/>
 _**Note: Evaluation scores are obtained using cross validation.**_
 
-## Model Prediction
-![Prediction]
 
-## Model Deployment
-• Repository Link: https://github.com/anujvyas/Spam-SMS-Classifier-Deployment<br />
-• Web App Link: https://spam-sms-detector.herokuapp.com/<br/>
+
+
 
 _**Do ⭐ the repository, if it helped you in anyway.**_
