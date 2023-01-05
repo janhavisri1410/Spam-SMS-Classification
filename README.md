@@ -1,1 +1,2 @@
 # Spam-SMS-Classification
+lmost every person today owns a mobile phone with at least the most basic facilities like messaging and calling. Spam calls are already infamous for the constant ringing of cell phones for promotional or fraudulent pitching to innocent customers. With the reducing costs of bulk messaging services from network providers, a massive base of these spam calls has shifted to messaging. SMS, standing for a short messaging service, has become a dumping ground of unwanted product descriptions and scam offers.
